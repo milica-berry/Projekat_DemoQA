@@ -1,4 +1,4 @@
-package Practice_DemoQA.Pages.Elements;
+package Practice_DemoQA.Pages;
 
 import Practice_DemoQA.Base.BaseTest;
 import org.openqa.selenium.JavascriptExecutor;

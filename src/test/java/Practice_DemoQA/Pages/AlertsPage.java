@@ -1,4 +1,4 @@
-package Practice_DemoQA.Pages.AlertsFrameAndWindows;
+package Practice_DemoQA.Pages;
 
 import Practice_DemoQA.Base.BaseTest;
 import org.openqa.selenium.Alert;

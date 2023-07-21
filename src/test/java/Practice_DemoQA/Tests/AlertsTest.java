@@ -1,9 +1,9 @@
 package Practice_DemoQA.Tests;
 
 import Practice_DemoQA.Base.BaseTest;
-import Practice_DemoQA.Pages.AlertsFrameAndWindows.AlertsPage;
-import Practice_DemoQA.Pages.Elements.HomepagePage;
-import Practice_DemoQA.Pages.Elements.SidebarPage;
+import Practice_DemoQA.Pages.AlertsPage;
+import Practice_DemoQA.Pages.HomepagePage;
+import Practice_DemoQA.Pages.SidebarPage;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;

@@ -1,9 +1,9 @@
 package Practice_DemoQA.Tests;
 
 import Practice_DemoQA.Base.BaseTest;
-import Practice_DemoQA.Pages.Elements.HomepagePage;
-import Practice_DemoQA.Pages.Elements.SidebarPage;
-import Practice_DemoQA.Pages.Elements.UploadAndDownloadPage;
+import Practice_DemoQA.Pages.HomepagePage;
+import Practice_DemoQA.Pages.SidebarPage;
+import Practice_DemoQA.Pages.UploadAndDownloadPage;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

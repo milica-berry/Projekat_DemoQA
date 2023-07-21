@@ -1,9 +1,9 @@
 package Practice_DemoQA.Tests;
 
 import Practice_DemoQA.Base.BaseTest;
-import Practice_DemoQA.Pages.Elements.DynamicPropertiesPage;
-import Practice_DemoQA.Pages.Elements.HomepagePage;
-import Practice_DemoQA.Pages.Elements.SidebarPage;
+import Practice_DemoQA.Pages.DynamicPropertiesPage;
+import Practice_DemoQA.Pages.HomepagePage;
+import Practice_DemoQA.Pages.SidebarPage;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
